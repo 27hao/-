@@ -1,0 +1,10 @@
+E:\vs2010\c#\订单管理\订单管理\bin\Release\订单管理.exe
+E:\vs2010\c#\订单管理\订单管理\bin\Release\订单管理.pdb
+E:\vs2010\c#\订单管理\订单管理\obj\x86\Release\订单管理.Config.resources
+E:\vs2010\c#\订单管理\订单管理\obj\x86\Release\订单管理.Form1.resources
+E:\vs2010\c#\订单管理\订单管理\obj\x86\Release\订单管理.houtai.resources
+E:\vs2010\c#\订单管理\订单管理\obj\x86\Release\订单管理.Properties.Resources.resources
+E:\vs2010\c#\订单管理\订单管理\obj\x86\Release\订单管理.csproj.GenerateResource.Cache
+E:\vs2010\c#\订单管理\订单管理\obj\x86\Release\订单管理.exe
+E:\vs2010\c#\订单管理\订单管理\obj\x86\Release\订单管理.pdb
+E:\vs2010\c#\订单管理\订单管理\obj\x86\Release\订单管理.csprojResolveAssemblyReference.cache
